@@ -10,7 +10,7 @@
 
 ⚜¦ انسخ رابط كيثاب السورس  ↡
 
-git clone https://github.com/NOVAR1/STORM.git; cd STORM;chmod +x tg;chmod +x STORM.sh;chmod +x SM.sh;./STORM.sh
+git clone https://github.com/LightningTAME/Koke.git; cd Koke;chmod +x tg;chmod +x Koke.sh;chmod +x SM.sh;./Koke.sh
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
